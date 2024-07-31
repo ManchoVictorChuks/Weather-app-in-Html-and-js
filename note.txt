@@ -1,0 +1,13 @@
+This is one of my many projects.
+
+i believe practicing leads to perfection, hence i start6ed a challenge to finish a project everyday for a whole year.
+
+reach me on infomancho@gmail.com and tell me something nice.
+
+input the name of the place you want to see the weather report for and get it instantly.
+
+thanks to Open weather maps for their Api. 
+
+feel free to work on. Thank you.
+
+Victor Mancho.
